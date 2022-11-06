@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 
 -->
+<!-- 🌱 I’m currently learning: Qt5 -->
 - 🔭 I’m currently working on: Coursework 🙃
-- 🌱 I’m currently learning: Qt5
+
 - 💬 Ask me about: Linux ricing
 - ⚡ Not so fun fact: Gödel's incompleteness theorems 
 
