@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 -->
 <!-- 🌱 I’m currently learning: Qt5 -->
-- 🔭 I’m currently working on: My thesis 🙃
-- 💬 Ask me about: Linux ricing
+- 🔭 I’m currently working on: My thesis: Parallel Classification using Support Vector Machines on Modern GPUs 🙃
+- 💬 Ask me about: \*nix ricing
 - ⚡ Not so fun fact: Gödel's incompleteness theorems 
 
 [![@cultab's Holopin board](https://holopin.io/api/user/board?user=cultab)](https://holopin.io/@cultab)
