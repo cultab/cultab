@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 <!-- 🌱 I’m currently learning: Qt5 -->
-- 🔭 I’m currently working on: My thesis: Nothing, don't you just LOVE compulsory military service (: /sarcasm
+- 🔭 I’m currently working on: Nothing, don't you just LOVE compulsory military service (: /sarcasm
 - 💬 Ask me about: \*nix ricing
 - ⚡ Not so fun fact: Gödel's incompleteness theorems 
 
