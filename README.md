@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 <!-- 🌱 I’m currently learning: Qt5 -->
-- 🔭 I’m currently working on: Getting a career started :]
+- 🔭 I’m currently working on: Work @Nokia
 - 💬 Ask me about: \*nix ricing
 - ⚡ Not so fun fact: Gödel's incompleteness theorems 
 
