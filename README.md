@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on: im inside ur @Nokia routers, droppin ur packets
+- 🔭 I’m currently working on: im inside ur @Nokia routers, droppin ur packets >:3
 - 💬 Ask me about: \*nix ricing
 - ⚡ Not so fun fact: Gödel's incompleteness theorems 
 
