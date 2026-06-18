@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 [![@cultab's Holopin board](https://holopin.io/api/user/board?user=cultab)](https://holopin.io/@cultab)
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 
